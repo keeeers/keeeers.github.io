@@ -1,5 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://keeeers.github.io</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://keeeers.github.io</link></image><lastBuildDate>Wed, 26 Jun 2024 08:38:35 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>Android签名证书与jre</title><link>https://keeeers.github.io/post/Android-qian-ming-zheng-shu-yu-jre.html</link><description># 使用JRE本地keystore Android证书&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://keeeers.github.io</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://keeeers.github.io</link></image><lastBuildDate>Thu, 19 Sep 2024 03:02:35 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>clblas测试结果</title><link>https://keeeers.github.io/post/clblas-ce-shi-jie-guo.html</link><description>测试 	参数 (M, K, N) 	总时间 (ms) 	make matrices 	Set up OpenCL 	Set up clBLAS 	Create buffers 	Call function 	Fetch results 	Release resources&#13;
+1 	5, 4, 3 	70.386 	0.002 	64.664 	0.101 	0.082 	5.366 	0.011 	0.138&#13;
+2 	100, 500, 100 	32.053 	0.179 	27.438 	0.037 	0.175 	4.244 	0.017 	0.121&#13;
+3 	200, 500, 200 	31.343 	0.486 	26.281 	0.032 	0.246 	4.603 	0.035 	0.123&#13;
+4 	300, 500, 300 	32.255 	0.774 	27.269 	0.032 	0.344 	4.378 	0.066 	0.142&#13;
+5 	400, 500, 400 	30.197 	1.292 	27.533 	0.033 	0.490 	1.799 	0.111 	0.206&#13;
+6 	500, 500, 500 	34.044 	1.516 	28.058 	0.032 	0.623 	4.932 	0.167 	0.207&#13;
+7 	600, 1000, 600 	35.153 	3.293 	27.011 	0.032 	0.927 	6.611 	0.227 	0.319&#13;
+8 	700, 1000, 700 	34.446 	4.636 	25.717 	0.033 	1.156 	6.853 	0.302 	0.357&#13;
+9 	800, 1000, 800 	32.278 	4.905 	27.273 	0.046 	1.187 	3.063 	0.315 	0.367&#13;
+10 	900, 1000, 900 	36.286 	6.247 	27.273 	0.030 	1.320 	6.758 	0.397 	0.481。</description><guid isPermaLink="true">https://keeeers.github.io/post/clblas-ce-shi-jie-guo.html</guid><pubDate>Thu, 19 Sep 2024 03:02:09 +0000</pubDate></item><item><title>Android签名证书与jre</title><link>https://keeeers.github.io/post/Android-qian-ming-zheng-shu-yu-jre.html</link><description># 使用JRE本地keystore Android证书&#13;
 Android平台打包发布apk应用，需要使用数字证书（.keystore文件）进行签名，用于表明开发者身份。</description><guid isPermaLink="true">https://keeeers.github.io/post/Android-qian-ming-zheng-shu-yu-jre.html</guid><pubDate>Wed, 26 Jun 2024 08:38:14 +0000</pubDate></item><item><title>在Dify中添加自定义工具之mySQL执行器</title><link>https://keeeers.github.io/post/zai-Dify-zhong-tian-jia-zi-ding-yi-gong-ju-zhi-mySQL-zhi-xing-qi.html</link><description># 在Dify中添加自定义工具&#13;
 ## 准备工作&#13;
 ### 本地化部署Dify&#13;
